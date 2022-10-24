@@ -7,6 +7,7 @@ public class GithubDenemesi {
 		
 		
 		System.out.println("Github denemesi");
+		System.out.println("My name is Serdar");
 
 	}
 
