@@ -10,7 +10,7 @@ public class ArrayManipulation {
 		double[] doubleArray = {8,4,9,3,0,2,7,9,3,4};
 		Arrays.sort(doubleArray);
 		System.out.printf("%n doubleArray: ");
-		for(double value : doubleArray){
+		for(double value : doubleArray){ 
 			System.out.printf("%if",value);
 			
 		}
